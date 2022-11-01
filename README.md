@@ -1,6 +1,7 @@
 # go-cli-task-manager
 CLI task manager with boltDB in backend
 
+```
 Usage:
   task [command]
 
@@ -10,3 +11,4 @@ Available Commands:
   list        List all of your incomplete tasks
 
 Use "task [command] --help" for more information about a command.
+```
